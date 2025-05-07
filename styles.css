@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(161, 160, 160);
+}
+#Encabezado {
+    background-color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content:center;
+}
+#DivMain{
+    display: block;
+    margin: 0 auto;
+    width: 900px;
+}
+.Names{
+    background-color: white;
+    width: 1000px;
+    height: 900px;
+    margin-top: 60px;
+}
+
+.Foto {
+    width: 1000px;
+    height: 600px;
+    position: relative;
+    top: -25px;
+}
+h2 {
+    position: relative;
+    top: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
+h3 {
+    position: relative;
+    float: right;
+    top: -80px;
+    margin-right: 10px;
+    color: grey;
+    font-size: 20px;
+}
+p {
+    font-size: 30px;
+    padding: 20px;
+    margin-left: 10px;
+}
